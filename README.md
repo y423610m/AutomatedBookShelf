@@ -9,3 +9,5 @@ automatically send commands to take books from Automated Bookshelf
 そこで，冊数と本のバーコードを入力すれば，あとは取り出し操作を自動化するプログラムを作りました．
 
 ※このプログラムはどこでも実行可能ですが，IPアドレスの認証が必要なため，大学内でないと実際に取り出し作業はできません．
+
+required : selenium
