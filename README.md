@@ -1,5 +1,7 @@
 # AutomatedBookShelf
+
 automatically send commands to take books from Automated Bookshelf 
+
 九大大学の図書館には，自動書庫と呼ばれる巨大な電動本棚があります．
 自動書庫の収納可能冊数には限りがあり，あまり借りられない本や古い本は取り出して処分する必要があります．
 本を取り出すためにはPC上で操作を行いますが，まとめて取り出すことは出来ないシステムになっています．
